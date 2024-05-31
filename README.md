@@ -21,9 +21,9 @@
      MIgration file contains tables schema.
      DB seeder file has data for testing.
      
-     <img src="assets/166939239/fa0d02d9-afda-4951-b900-6bf91cca931d">
-     <img src="assets/166939239/c72a309d-8859-4521-8a1c-c15616cab7cd">
-     <img src="assets/166939239/d59a4fb5-b80d-4c3d-a01c-9788a874f5fc">
+    # <img src="https://github.com/tekwing/machine_test/blob/main/assets/166939239/fa0d02d9-afda-4951-b900-6bf91cca931d">
+    # <img src="https://github.com/tekwing/machine_test/assets/166939239/c72a309d-8859-4521-8a1c-c15616cab7cd">
+    # <img src="https://github.com/tekwing/machine_test/assets/166939239/d59a4fb5-b80d-4c3d-a01c-9788a874f5fc">
 
 
 
