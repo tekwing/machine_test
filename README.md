@@ -12,7 +12,8 @@
      Click Add shop on sidebar and enter required data. the shop will be created and appears in search result.
 
 # 4. Location fetching 
-     After login software ask to give location access. if location given it fetches longitute and latitude and show it in field. after that if user click search shop button it fetches 
+     After login software ask to give location access. if location given it fetches longitute and latitude and show it in field. after 
+     that if user click search shop button it fetches 
      nearest shop. based on distance in kilometer it shows nearest shop first
 
      user can also edit co-ordinate (latitude and longitude) and view proper result . for every search it Plot the location on map.
