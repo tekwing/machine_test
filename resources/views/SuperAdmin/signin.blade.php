@@ -81,7 +81,7 @@
                                             @csrf
                                         <div class="mb-3">
                                             <label for="username" class="form-label">User ID</label>
-                                            <input type="text" class="form-control" name="user_id" value="admin" placeholder="Enter User ID">
+                                            <input type="text" class="form-control" name="user_id" value="" placeholder="Enter User ID">
                                         </div>
 
                                         <div class="mb-3">
@@ -90,7 +90,7 @@
                                             </div>
                                             <label class="form-label" for="password-input">Password</label>
                                             <div class="position-relative auth-pass-inputgroup mb-3">
-                                                <input type="password" value="1234" class="form-control pe-5 password-input" placeholder="Enter password" name="password">
+                                                <input type="password" value="" class="form-control pe-5 password-input" placeholder="Enter password" name="password">
                                                 <button class="btn btn-link position-absolute end-0 top-0 text-decoration-none text-muted password-addon" type="button" id="password-addon"><i class="ri-eye-fill align-middle"></i></button>
                                             </div>
                                         </div>
